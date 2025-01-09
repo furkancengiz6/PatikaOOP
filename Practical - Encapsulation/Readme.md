@@ -24,17 +24,18 @@ Bu proje, **kapsülleme (encapsulation)** kavramını anlamak ve gerçek hayatta
 ```csharp
 Car car1 = new Car("Toyota", "Corolla", "Beyaz", 4); // Geçerli kapı sayısı
 Car car2 = new Car("Honda", "Civic", "Kırmızı", 3); // Geçersiz kapı sayısı
-
+```
 ## 2️⃣ Çıktı
 
 -    Geçerli kapı sayısı:
+
 ```
 Araba oluşturuldu:
 Marka: Toyota, 
 Model: Corolla, 
 Renk: Beyaz, 
-Kapı Sayısı: 4
-```
+Kapı Sayısı: 4 ```
+
 -    Geçersiz kapı sayısı:
 ```Geçersiz kapı sayısı (3). Kapı sayısı yalnızca 2 veya 4 olabilir. Varsayılan değer atanıyor: -1.
 Araba oluşturuldu:
@@ -50,7 +51,11 @@ Kapsülleme, bir sınıfın verilerini (özelliklerini) dış müdahalelerden ko
 
     DoorCount özelliği, yalnızca belirli kurallar (2 veya 4 olması) çerçevesinde atanabilir.
     Kontrol, bir property aracılığıyla yapılır:
-```if (value == 2 || value == 4)
+
+
+    
+```
+if (value == 2 || value == 4)
 {
     doorCount = value;
 }
@@ -60,6 +65,7 @@ else
     doorCount = -1;
 }
 ```
+
 ## 🔗 İlgili Konular
 
     Nesne Yönelimli Programlama (OOP)
