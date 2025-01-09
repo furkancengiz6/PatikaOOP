@@ -36,8 +36,7 @@ Renk: Beyaz,
 Kapı Sayısı: 4
 ```
 -    Geçersiz kapı sayısı:
-```
-Geçersiz kapı sayısı (3). Kapı sayısı yalnızca 2 veya 4 olabilir. Varsayılan değer atanıyor: -1.
+```Geçersiz kapı sayısı (3). Kapı sayısı yalnızca 2 veya 4 olabilir. Varsayılan değer atanıyor: -1.
 Araba oluşturuldu:
 Marka: Honda, 
 Model: Civic, 
@@ -51,8 +50,7 @@ Kapsülleme, bir sınıfın verilerini (özelliklerini) dış müdahalelerden ko
 
     DoorCount özelliği, yalnızca belirli kurallar (2 veya 4 olması) çerçevesinde atanabilir.
     Kontrol, bir property aracılığıyla yapılır:
-```
-if (value == 2 || value == 4)
+```if (value == 2 || value == 4)
 {
     doorCount = value;
 }
