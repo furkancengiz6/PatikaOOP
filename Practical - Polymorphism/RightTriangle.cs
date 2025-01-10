@@ -10,7 +10,7 @@ namespace PraticalPolymorphism
     {
         public RightTriangle(double width, double height) : base(width, height)
         {
-            CalculateArea();
+            
         }
         public override double CalculateArea()
         {

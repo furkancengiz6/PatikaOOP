@@ -11,7 +11,7 @@ namespace PraticalPolymorphism
         public Square(double width, double height) : base(width, height)
         {
 
-            CalculateArea();
+           
         }
         public override double CalculateArea()
         {
