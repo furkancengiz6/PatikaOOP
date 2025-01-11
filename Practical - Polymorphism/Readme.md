@@ -1,6 +1,6 @@
 # Practical - Polymorphism
 
-Bu depo, Java'da **polimorfizm** kavramını nesne yönelimli programlama bağlamında göstermektedir. Polimorfizm, farklı sınıflardan nesnelerin, ortak bir üst sınıfın nesneleri gibi ele alınmasını sağlayarak dinamik metot davranışlarını mümkün kılar.
+Bu depo, C#'da **polimorfizm** kavramını nesne yönelimli programlama bağlamında göstermektedir. Polimorfizm, farklı sınıflardan nesnelerin, ortak bir üst sınıfın nesneleri gibi ele alınmasını sağlayarak dinamik metot davranışlarını mümkün kılar.
 
 ---
 
