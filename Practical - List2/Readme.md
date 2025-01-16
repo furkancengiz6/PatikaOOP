@@ -23,5 +23,7 @@ Kahve Listesi:
 - Mocha
 - Cappuccino
 - Türk Kahvesi
+```
 
-![2rdiMGU-davetliler](https://github.com/user-attachments/assets/1da6f0f9-8ab4-494d-b768-0c6ee57d9d4e)
+## Console Çıktı
+![2rdiMGU-davetliler](https://github.com/user-attachments/assets/7572a166-0d18-41bf-89cd-6816ae158fc4)
