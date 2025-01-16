@@ -26,4 +26,5 @@ Kahve Listesi:
 ```
 
 ## Console Çıktı
-![2rdiMGU-davetliler](https://github.com/user-attachments/assets/7572a166-0d18-41bf-89cd-6816ae158fc4)
+![resim](https://github.com/user-attachments/assets/fc4c23a8-a90b-4bbf-9e01-93f681b89d14)
+
