@@ -13,6 +13,7 @@ Patika.dev OOP dersi kapsamında geliştirilen bu küçük uygulama, IMDB listes
    ```
 2. "Practical - IMDB List" dizinini açın ve çalıştırın.
 
-Console Cıktısı : 
+Console Cıktısı :
+
 ![resim](https://github.com/user-attachments/assets/a32a3ecb-74d0-41be-b844-6b4339808641)
 
